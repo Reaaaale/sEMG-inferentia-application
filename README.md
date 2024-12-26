@@ -39,7 +39,7 @@ Prima di iniziare, assicurati di avere i seguenti prerequisiti:
 ### 1. Clona questa repository
 
 ```bash
-git clone https://github.com/tuo-utente/tuo-repo.git
+git clone https://github.com/Reaaaale/sEMG-inferentia-application
 cd tuo-repo
 ```
 
@@ -75,7 +75,7 @@ python scripts/main_fifo.py
 
 Il modello pre-addestrato utilizzato per l'inferenza si trova nella cartella `models/`. Se hai bisogno di aggiornare il modello, puoi sostituirlo con un file `.pt` compatibile.
 
-Per informazioni sull'acquisizione dei dati e sull'addestramento del modello, consulta la repository dedicata disponibile qui: [Repository di acquisizione e addestramento](https://github.com/tuo-utente/repo-acquisizione-addestramento).
+Per informazioni sull'acquisizione dei dati e sull'addestramento del modello, consulta la repository dedicata disponibile qui: [Repository di acquisizione e addestramento](https://github.com/Reaaaale/sEMG-inferentia-application).
 
 Il modello pre-addestrato utilizzato per l'inferenza si trova nella cartella `models/`. 
 
