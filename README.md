@@ -2,7 +2,9 @@
 
 ## Descrizione del progetto
 
-Questo progetto è una demo di un'applicazione che acquisisce dati in tempo reale tramite un'interfaccia Arduino con 3 sensori EMG, li filtra e processa, ed esegue inferenza utilizzando un modello di machine learning.
+Questo progetto è una demo sviluppata presso l'Università di Cagliari nell'ambito della borsa di ricerca del progetto europeo "EdgeAI: Edge AI Technologies for Optimised Performance Embedded Processing".
+
+Si tratta di una demo per un applicazione che acquisisce dati sEMG in tempo reale tramite un'interfaccia Arduino con 3 sensori EMG, li filtra e processa, ed esegue inferenza utilizzando un modello di machine learning. 
 
 Il progetto utilizza il framework **Lava-DL** per reti neurali spiking, configurato per lavorare con segnali elaborati in tempo reale. Sono disponibili due modalità di esecuzione:
 
