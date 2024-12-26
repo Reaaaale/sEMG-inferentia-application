@@ -1,0 +1,30 @@
+# Cache di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtuale (chiamato "demo")
+demo/
+
+# File temporanei o di log
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Archivi compressi
+*.zip
+*.tar.gz
+*.rar
+
+# Configurazioni dell'IDE/editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# File di debug o test
+debug/
+
+# Escludi dati sensibili o file CSV, se necessario
+data/*.csv
